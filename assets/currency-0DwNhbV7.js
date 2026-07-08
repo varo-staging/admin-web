@@ -1,0 +1,1 @@
+function e(e){return`$${e.toFixed(2)}`}function t(e){return{per_second:`/秒`,per_image:`/张`,per_million_tokens:`/百万 tokens`,per_hour:`/小时`}[e]??e}export{e as n,t};
