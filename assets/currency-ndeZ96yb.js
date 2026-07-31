@@ -1,1 +1,0 @@
-function e(e){return`$${e.toFixed(2)}`}export{e as t};
