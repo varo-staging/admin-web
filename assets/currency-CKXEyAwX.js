@@ -1,0 +1,1 @@
+function e(e){return`$${e.toFixed(2)}`}function t(e){return e/100}function n(e){return Math.round(e*100)}function r(n){return e(t(n))}function i(t,n){return t!=null&&Number.isFinite(t)?e(t):n==null?`—`:n>=12?`不适用`:`结算中`}export{n as a,e as i,r as n,i as r,t};

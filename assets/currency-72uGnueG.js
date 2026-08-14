@@ -1,1 +1,0 @@
-function e(e){return`$${e.toFixed(2)}`}function t(t,n){return t!=null&&Number.isFinite(t)?e(t):n==null?`—`:n>=12?`不适用`:`结算中`}export{e as n,t};
